@@ -1,0 +1,5 @@
+insertion_percentage,inserted_records,height,width_by_level,internal_nodes,leaf_nodes,total_nodes
+25%,25000,3,"[1, 2, 213]",3,213,216
+50%,50000,3,"[1, 4, 431]",5,431,436
+75%,75000,3,"[1, 4, 637]",5,637,642
+100%,100000,3,"[1, 8, 850]",9,850,859

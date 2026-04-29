@@ -1,0 +1,5 @@
+Sample Audit Item,Value
+Requested sample size,1000
+Actual sampled records,1000
+Unique sampled Transaction_ID keys,1000
+Random seed,42

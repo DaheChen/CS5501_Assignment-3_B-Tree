@@ -1,0 +1,11 @@
+Data Audit Item,Value
+Raw rows,100000
+Rows after cleaning,100000
+Missing Transaction_ID rows removed,0
+Duplicate Transaction_ID rows,0
+Duplicate Transaction_ID unique keys,0
+Transaction_ID normalized type,integer
+Parsed Transaction_Date rows,100000
+Invalid Transaction_Date rows,0
+Numeric Amount rows,100000
+Invalid Amount rows,0

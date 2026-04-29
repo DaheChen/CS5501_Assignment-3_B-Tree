@@ -1,0 +1,3 @@
+tree_type,max_degree,height,width_by_level,internal_nodes,leaf_nodes,total_nodes,total_records,unique_keys
+Best-fit B+ Tree,171,3,"[1, 8, 850]",9,850,859,100000,100000
+Degree-4 B+ Tree,4,11,"[1, 3, 8, 23, 66, 195, 574, 1674, 4939, 14548, 42868]",22031,42868,64899,100000,100000

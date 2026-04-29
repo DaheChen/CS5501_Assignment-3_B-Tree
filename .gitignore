@@ -1,0 +1,22 @@
+# Python cache and local runtime artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local plotting/cache files
+.matplotlib_cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large generated tree exports.
+# The degree-4 JSON is over GitHub's 100 MB single-file limit.
+outputs/*.json
+
+# Keep lightweight, reviewer-useful experiment outputs.
+!outputs/*.csv
+!outputs/*.png
